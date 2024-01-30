@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "name": "Token Fungivel 2",
+    "description": "Este é um token fungivel 2",
+    "image": "https://img.freepik.com/premium-photo/angel-cat-with-wings-high-quality-illustration_763713-718.jpg?w=826",
+    "attributes": [
+      {
+        "trait_type": "Ano",
+        "value": "2023"
+      }
+    ]
+  }
+}
