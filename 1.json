@@ -1,5 +1,6 @@
 {
   "properties": {
+    "id": 1,
     "name": "Token Fungivel",
     "description": "Este é um token fungivel",
     "image": "https://cdn.flatout.com.br/wp-content/uploads/2019/09/corsa-piquet-D_NQ_NP_828617-MLB29298306358_012019-F-e1569524151697.jpg",
