@@ -1,5 +1,6 @@
 {
   "properties": {
+    "id": 0,
     "name": "Token Não Fungivel",
     "description": "Este é um token nao fungivel atualizado",
     "image": "https://img.freepik.com/premium-photo/angel-cat-with-wings-high-quality-illustration_763713-718.jpg?w=826",
