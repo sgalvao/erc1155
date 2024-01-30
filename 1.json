@@ -1,7 +1,14 @@
 {
-    "id": 1,
+  "properties": {
     "name": "Token Fungivel",
     "description": "Este é um token fungivel",
     "decimals": 2,
     "image": "https://cdn.flatout.com.br/wp-content/uploads/2019/09/corsa-piquet-D_NQ_NP_828617-MLB29298306358_012019-F-e1569524151697.jpg",
+    "attributes": [
+      {
+        "trait_type": "Ano",
+        "value": "2023"
+      }
+    ]
+  }
 }
